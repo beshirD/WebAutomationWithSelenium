@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AutoTestGmail.iml" filepath="$PROJECT_DIR$/AutoTestGmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoTest.iml" filepath="$PROJECT_DIR$/AutoTest.iml" />
     </modules>
   </component>
 </project>
