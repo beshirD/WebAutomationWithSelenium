@@ -18,7 +18,7 @@ public class PortalTest {
 
         //Thread.sleep(1000);
 
-        driver.findElement(By.name("Password")).sendKeys ("6148");
+        driver.findElement(By.name("Password")).sendKeys ("Enter your Password");
 
         Thread.sleep(1000);
 

@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 public class GmailNewInboxCounter {
     @Test
-    public void testCase2() throws InterruptedException {
+    public void testCase2(){
 
         WebDriver driver = new SafariDriver();
 
